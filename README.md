@@ -285,7 +285,7 @@ For the 3B Qwen model, each additional 1,000 tokens of context costs ~150–250 
 @article{dheeraj2026acb,
   title   = {Adaptive Cognitive Budgeting for GPU-Free Language Models
              on Memory-Constrained Personal Computers},
-  author  = {Dheeraj, R. Sai},
+  author  = {R. Sai Dheeraj},
   year    = {2026},
   url     = {https://github.com/SaiDheeraj-19/Adaptive-Cognitive-Budgeting-GPU-Free-LLMs}
 }
