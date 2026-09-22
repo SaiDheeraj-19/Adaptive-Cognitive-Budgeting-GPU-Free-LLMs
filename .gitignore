@@ -1,0 +1,15 @@
+models/
+venv/
+__pycache__/
+*.gguf
+*.log
+llama.cpp/
+*.aux
+*.xdv
+*.bcf
+*.blg
+*.bbl
+*.out
+*.toc
+*.fls
+*.fdb_latexmk

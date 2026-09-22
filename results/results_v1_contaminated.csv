@@ -1,0 +1,16 @@
+config,query_index,query_type,latency,tokens,truncated,precision,context,free_mb,swap_used_mb,pressure_level
+Static-Safe,0,multi_turn,0.0041468143463134766,0,False,Q4_K_M,512,63.921875,1436.75,Normal
+Static-Safe,1,long_context,0.002053976058959961,0,False,Q4_K_M,512,63.921875,1436.75,Normal
+Static-Safe,2,short_factual,0.0010633468627929688,0,False,Q4_K_M,512,63.921875,1436.75,Normal
+Static-Safe,3,multi_turn,0.00096893310546875,0,False,Q4_K_M,512,63.921875,1436.75,Normal
+Static-Safe,4,multi_turn,0.0011692047119140625,0,False,Q4_K_M,512,63.921875,1436.75,Normal
+Static-Capable,0,multi_turn,0.004925966262817383,0,False,Q8_0,8192,64.109375,1428.75,Normal
+Static-Capable,1,long_context,0.0013692378997802734,0,False,Q8_0,8192,64.109375,1428.75,Normal
+Static-Capable,2,short_factual,0.0009479522705078125,0,False,Q8_0,8192,64.109375,1428.75,Normal
+Static-Capable,3,multi_turn,0.0010941028594970703,0,False,Q8_0,8192,64.109375,1428.75,Normal
+Static-Capable,4,multi_turn,0.0009071826934814453,0,False,Q8_0,8192,64.109375,1428.75,Normal
+ACB,0,multi_turn,0.0021817684173583984,0,False,Q4_K_M,4173,77.796875,1485.9375,Normal
+ACB,1,long_context,0.0023970603942871094,0,False,Q4_K_M,4505,60.125,1501.5,Normal
+ACB,2,short_factual,0.002521038055419922,0,False,Q4_K_M,2748,65.46875,1501.5,Normal
+ACB,3,multi_turn,7.389688968658447,221,False,Q4_K_M,4173,61.640625,1485.5,Normal
+ACB,4,multi_turn,4.566169261932373,213,False,Q4_K_M,4173,74.421875,1485.5,Normal
