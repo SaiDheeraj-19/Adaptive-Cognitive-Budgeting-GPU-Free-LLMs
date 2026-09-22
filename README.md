@@ -6,6 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SaiDheeraj-19/Adaptive-Cognitive-Budgeting-GPU-Free-LLMs/blob/main/demo.ipynb)
 [![Platform: macOS](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey.svg)]()
 [![Hardware: CPU-Only](https://img.shields.io/badge/hardware-CPU--only-orange.svg)]()
 
