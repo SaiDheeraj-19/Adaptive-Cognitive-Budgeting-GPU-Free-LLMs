@@ -6,11 +6,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SaiDheeraj-19/Adaptive-Cognitive-Budgeting-GPU-Free-LLMs/blob/main/demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
 [![Platform: macOS](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey.svg)]()
 [![Hardware: CPU-Only](https://img.shields.io/badge/hardware-CPU--only-orange.svg)]()
 
-*R. Sai Dheeraj — Independent Researcher, Kurnool, Andhra Pradesh, India*
+*Anonymous Authors — Double-blind submission*
 
 📄 [Read the Paper](paper/Adaptive_Cognitive_Budgeting_GPU_Free_LLMs.pdf) · 📊 [View Raw Results](results/results_v2_corrected.csv) · 🔁 [Reproduce](REPRODUCE.md)
 
@@ -199,7 +199,7 @@ Generation cap: 128 tokens, applied uniformly to all three configurations.
 
 ```bash
 # Clone
-git clone https://github.com/SaiDheeraj-19/Adaptive-Cognitive-Budgeting-GPU-Free-LLMs.git
+git clone <ANONYMOUS_REPO_URL>
 cd Adaptive-Cognitive-Budgeting-GPU-Free-LLMs
 
 # Install Python deps
@@ -298,9 +298,9 @@ For the 3B Qwen model, each additional 1,000 tokens of context costs ~150–250 
 @article{dheeraj2026acb,
   title   = {Adaptive Cognitive Budgeting for GPU-Free Language Models
              on Memory-Constrained Personal Computers},
-  author  = {R. Sai Dheeraj},
+  author  = {Anonymous Authors},
   year    = {2026},
-  url     = {https://github.com/SaiDheeraj-19/Adaptive-Cognitive-Budgeting-GPU-Free-LLMs}
+  url     = {https://github.com/AnonymousAuthor/Adaptive-Cognitive-Budgeting-GPU-Free-LLMs}
 }
 ```
 
