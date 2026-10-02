@@ -183,8 +183,7 @@ Generation cap: 128 tokens, applied uniformly to all three configurations.
 │   └── fig3_control_flow.png         # Per-query control flow diagram
 │
 └── paper/
-    ├── Adaptive_Cognitive_Budgeting_GPU_Free_LLMs.pdf          # ✅ Final paper with results
-    └── Adaptive_Cognitive_Budgeting_GPU_Free_LLMs_original_draft.pdf  # Pre-experiment draft
+    └── Adaptive_Cognitive_Budgeting_GPU_Free_LLMs.pdf          # ✅ Final paper with results
 ```
 
 ---
