@@ -46,13 +46,7 @@ ACB is a lightweight control layer that sits **above** an unmodified llama.cpp s
 Then it selects a **budget vector** `c = (p, w, g, k, n)`:
 
 | Knob | Meaning | Example values |
-|### ⚠️ Boundary of Claims
-The results presented above reflect a single audited trial (N=1) per configuration on one specific hardware profile (Apple M2, 8GB) with one workload. They **do not** establish universal superiority or generalization to other devices, models, or workloads. Our goal is to demonstrate the feasibility of dynamic context and precision budgeting, not to claim universally optimal performance. See the paper's Limitations section for the required extensions to validate generality.
-
----### ⚠️ Boundary of Claims
-The results presented above reflect a single audited trial (N=1) per configuration on one specific hardware profile (Apple M2, 8GB) with one workload. They **do not** establish universal superiority or generalization to other devices, models, or workloads. Our goal is to demonstrate the feasibility of dynamic context and precision budgeting, not to claim universally optimal performance. See the paper's Limitations section for the required extensions to validate generality.
-
----|---------|----------------|
+|---|---------|----------------|
 | **p** | Quantization precision | Q4_K_M → Q8_0 |
 | **w** | Context window (tokens) | 512 – 8192 |
 | **g** | Max generation length | 64 – 2048 |
